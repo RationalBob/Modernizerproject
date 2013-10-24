@@ -1,0 +1,8 @@
+.shadowAndAlphaBackground {
+	text-shadow: 2px 2px #ff0000;
+	background: rgba(0, 0, 255, 0.25);
+}
+
+.noShadowAndAlpha {
+	background: rgb(254, 203, 203);
+}
